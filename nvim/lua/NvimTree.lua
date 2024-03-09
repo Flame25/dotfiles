@@ -4,8 +4,9 @@ vim.g.loaded_netrwPlugin = 1
 vim.g.nvim_tree_respect_buf_cwd = 1
 -- set termguicolors to enable highlight groups
 vim.opt.termguicolors = true
+local map = vim.api.nvim_set_keymap
 
-
+map('n', '<leader>t', ':NvimTreeToggle<CR>',{noremap = true, silent=true})
 -- OR setup with some options
 require("nvim-tree").setup({
     update_focused_file = {

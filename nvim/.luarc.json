@@ -1,0 +1,9 @@
+{
+  // Diagnostics configuration for Luanalysis
+  "diagnostics": {
+    "globals": [
+      "vim"  // Include the global variable "vim" in diagnostics
+    ]
+  }
+  // You can add comments or remove them as needed
+}

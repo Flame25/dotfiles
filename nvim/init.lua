@@ -7,6 +7,7 @@ require 'whichkey'
 require 'alpha-config'
 require 'coc_setting'
 require 'DiscordRPC'
+require 'copilot'
 
 -- KNAP --
 -- set shorter name for keymap function

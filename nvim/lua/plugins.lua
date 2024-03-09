@@ -14,6 +14,7 @@ packer.startup(function(use)
   }
 
   -- You can specify multiple plugins in a single call
+  use {'mrcjkb/rustaceanvim',version = '^4', ft = { 'rust' }}
   use 'wbthomason/packer.nvim'
   use {'tjdevries/colorbuddy.vim', {'nvim-treesitter/nvim-treesitter', opt = true}}
   use {
@@ -22,6 +23,8 @@ packer.startup(function(use)
     -- config goes here
   end,
   }
+  use 'CopilotC-Nvim/CopilotChat.nvim'
+  use {"folke/neodev.nvim", opts = {} }
   use 'm4xshen/autoclose.nvim'
   use 'neovim/nvim-lspconfig'
   use 'andweeb/presence.nvim'
