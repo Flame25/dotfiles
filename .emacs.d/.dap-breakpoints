@@ -1,0 +1,1 @@
+#s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8125 data ("/home/gadzz/Downloads/Prak3_2/RedAstronaut.java" ((:point 283)) "/home/gadzz/Documents/PlatformIO/Projects/Project5_Weather/src/main.cpp" ((:point 22) (:point 1))))

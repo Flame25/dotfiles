@@ -1,0 +1,1 @@
+("~/Documents/OS/os-2024-furinaos/" "~/rustlings/" "~/Documents/PlatformIO/Projects/Project 4/" "~/Downloads/" "~/Documents/Rust/TUI_App/note_taker-apps/" "~/Documents/PlatformIO/Projects/What/" "~/Documents/PlatformIO/Projects/New_Proj/" "~/.emacs.d/elpa/ejc-sql-20240106.1848/")
